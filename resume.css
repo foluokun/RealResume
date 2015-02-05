@@ -1,0 +1,28 @@
+/* resume css */
+
+body {
+	background-color: #E6E6E6;
+}
+div.info {
+	text-align: center;
+}
+
+a {
+	color: blue;
+}
+a:hover {
+	color: white;
+}
+
+div.photo {
+	text-align: center;
+	margin-left: 33%
+	width: 200px;
+	padding: 25px;
+	
+}
+
+h2 {
+	text-decoration: underline;
+	text-decoration: bold;
+}
